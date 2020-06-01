@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118486646204",
+    "firebase_url": "https://deadbed-1d9e6.firebaseio.com",
+    "project_id": "deadbed-1d9e6",
+    "storage_bucket": "deadbed-1d9e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118486646204:android:c157c9a3807981418affb9",
+        "android_client_info": {
+          "package_name": "com.DeadBedCybersolutions.deadbed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118486646204-kpf149odg0n3uqind2b98ku1f5nibeki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL2Z2szwMlW0xeR-MigapEkwXg_VRia5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118486646204-kpf149odg0n3uqind2b98ku1f5nibeki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
